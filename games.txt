@@ -1,0 +1,56 @@
+[item_start]
+[name]=示例游戏①·星际远征
+[img]=https://cdn.jsdelivr.net/gh/xuxiaoer-wang/tx-splash@a51d8088ea3ffa53f606064f15afb0c074ee777e/games/cover1.png
+[download]=https://cdn.jsdelivr.net/gh/xuxiaoer-wang/tx-splash@a51d8088ea3ffa53f606064f15afb0c074ee777e/games/demo1.apk
+[short_desc]=0.1折 · 横屏 · 冒险
+[long_desc]=【玩法介绍】
+太空题材横屏冒险游戏：驾驶战舰穿越星域，收集资源、升级舰队。
+战斗为自动射击 + 手动走位，越往后弹幕越密。
+
+【特色】
+· 30+ 关剧情关卡，10 种战舰可解锁
+· 离线也能挂机产出资源
+
+【注意事项】
+首次进入需要下载约 200MB 资源包，建议在 Wi-Fi 环境完成。
+[version]=1.0.0
+[size]=520MB
+[tags]=冒险,横屏,0.1折
+[item_end]
+[item_start]
+[name]=示例游戏②·光之解谜
+[img]=https://cdn.jsdelivr.net/gh/xuxiaoer-wang/tx-splash@a51d8088ea3ffa53f606064f15afb0c074ee777e/games/cover2.png
+[download]=https://cdn.jsdelivr.net/gh/xuxiaoer-wang/tx-splash@a51d8088ea3ffa53f606064f15afb0c074ee777e/games/demo2.apk
+[short_desc]=休闲 · 解谜 · 竖屏
+[long_desc]=【游戏简介】
+童话画风的休闲解谜：拖动光线折射，点亮全部水晶即可过关。
+
+【亮点】
+· 100 关卡，难度平滑上升
+· 支持单手竖屏操作，随时可玩
+
+【温馨提示】
+本游戏无内购、无广告，适合全年龄。
+[version]=2.3.1
+[size]=86MB
+[tags]=休闲,解谜,竖屏
+[item_end]
+[item_start]
+[name]=示例游戏③·像素地牢
+[img]=https://cdn.jsdelivr.net/gh/xuxiaoer-wang/tx-splash@a51d8088ea3ffa53f606064f15afb0c074ee777e/games/cover3.png
+[download]=https://cdn.jsdelivr.net/gh/xuxiaoer-wang/tx-splash@a51d8088ea3ffa53f606064f15afb0c074ee777e/games/demo3.apk
+[short_desc]=MOD菜单 · 肉鸽 · 像素
+[long_desc]=【游戏简介】
+像素风肉鸽动作游戏：每一次死亡都会解锁新的武器与祝福。
+
+【核心玩法】
+1. 选择初始武器进入地牢
+2. 清理房间获得祝福
+3. 击败每层 BOSS 进入下一层
+
+【注意】
+游戏进程自动保存，退出前无需手动存档。
+[version]=1.7.5
+[size]=210MB
+[tags]=肉鸽,像素,动作
+[item_end]
