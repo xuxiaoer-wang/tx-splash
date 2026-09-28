@@ -1,0 +1,6 @@
+[ad_enable]=true
+[ad_image]=http://shuixian.ltd/file/api/ads/user_2821807257_1790611504.jpg
+[jump_url]=https://v.douyin.com/7n-pSiAhwIQ/
+[countdown_sec]=5
+[skip_text]=跳过 %d 秒
+[timeout]=3
