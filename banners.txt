@@ -1,0 +1,9 @@
+# ===== TX 社区 首页轮播配置 =====
+# 一组 [banner_start] ~ [banner_end] = 一张轮播
+# 字段：[img] 大图地址 / [title] 大标题 / [desc] 小字描述 / [link] 点击跳转
+# 新增轮播：复制一整组；删除：删掉整块。保存后 App 自动生效。
+[banner_start]
+[img]=https://cdn.jsdelivr.net/gh/xuxiaoer-wang/tx-splash@main/banners/banner1.jpg
+[desc]=刘佳欣
+[link]=https://v.douyin.com/FQKDiB3hSS4/
+[banner_end]
