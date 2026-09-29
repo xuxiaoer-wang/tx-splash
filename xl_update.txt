@@ -8,4 +8,4 @@
 [download_url]=https://cdn.jsdelivr.net/gh/xuxiaoer-wang/tx-splash@main/xl_1.5.0.apk
 [force_update]=false
 [update_timeout]=8
-[offline_block]=true
+[offline_block]=false
