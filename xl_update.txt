@@ -1,0 +1,10 @@
+[version]=1.5.0
+[version_name]=v1.5.0
+[update_enable]=true
+[update_title]=发现新版本
+[update_desc]=1.新增「对比账号」：可直接判断两个备份是不是同一个账号
+2.修复长文本弹窗打开后关不掉的 bug
+3.界面与日志文案统一（快照 → 账号）
+[download_url]=https://cdn.jsdelivr.net/gh/xuxiaoer-wang/tx-splash@main/xl_1.5.0.apk
+[force_update]=true
+[update_timeout]=4
