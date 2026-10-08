@@ -7,3 +7,8 @@
 [desc]=刘佳欣
 [link]=https://v.douyin.com/FQKDiB3hSS4/
 [banner_end]
+[banner_start]
+[img]=https://cdn.jsdelivr.net/gh/xuxiaoer-wang/tx-splash@main/banners/banner2.jpg
+[title]=大标题测试
+[desc]=小标题测试
+[banner_end]
