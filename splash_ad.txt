@@ -1,5 +1,5 @@
 [ad_enable]=true
-[ad_image]=https://cdn.jsdelivr.net/gh/xuxiaoer-wang/tx-splash@ab0e1bbaba2b62c63528d2369d59e298a5807e2e/splash.jpg
+[ad_image]=https://cdn.jsdelivr.net/gh/xuxiaoer-wang/tx-splash@main/splash2.jpg
 [jump_url]=https://v.douyin.com/7n-pSiAhwIQ/
 [countdown_sec]=8
 [skip_text]=跳过 %d 秒
