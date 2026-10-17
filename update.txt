@@ -7,7 +7,7 @@ maintain_banner_img=
 # 更新检测：1=开启  0=关闭
 update_switch=1
 # 1=强制（没有“稍后”，不更新进不去）  0=可选
-force_update=0
+force_update=1
 new_version=1.3.2
 update_title=发现新版本
 update_content=本次更新：\n1.修复搜索检索bug\n2.新增图片预览功能\n3.优化加载速度
