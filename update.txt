@@ -3,7 +3,7 @@ maintain_switch=0
 maintain_redirect_url=
 maintain_banner_img=
 
-update_switch=1
+update_switch=0
 force_update=0
 new_version=1.3.2
 update_title=发现新版本
